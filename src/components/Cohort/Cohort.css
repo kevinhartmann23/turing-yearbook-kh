@@ -1,1 +1,13 @@
+.cohort-container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding: 2em;
+}
 
+.cohort-title {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 10px;
+  color: limegreen;
+  
+}

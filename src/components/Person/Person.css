@@ -1,1 +1,27 @@
+.person {
+ height: 45vh;
+ width: 20vw;
+ background-color: azure;
+ border-radius: 2em;
+ margin: .5em;
+ padding: 1em;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+}
 
+.person-img {
+ height: 20vh;
+ width: 15vw;
+}
+
+.person-quote {
+ font-size: .75em;
+ font-style: italic;
+}
+
+.person-super {
+ color: #3495C1;
+ font-weight: bolder;
+}
